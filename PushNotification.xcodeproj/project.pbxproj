@@ -89,9 +89,9 @@
 		9C64A0AF24CFD235009312AB = {
 			isa = PBXGroup;
 			children = (
-				9C64A0BA24CFD235009312AB /* push-notification-ios */,
-				9C64A0D124CFD236009312AB /* push-notification-iosTests */,
-				9C64A0DC24CFD236009312AB /* push-notification-iosUITests */,
+				9C64A0BA24CFD235009312AB /* PushNotification */,
+				9C64A0D124CFD236009312AB /* PushNotificationTests */,
+				9C64A0DC24CFD236009312AB /* PushNotificationUITests */,
 				9C64A0B924CFD235009312AB /* Products */,
 			);
 			sourceTree = "<group>";
@@ -106,7 +106,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		9C64A0BA24CFD235009312AB /* push-notification-ios */ = {
+		9C64A0BA24CFD235009312AB /* PushNotification */ = {
 			isa = PBXGroup;
 			children = (
 				9C8CC9E024D0136B00DC3AEC /* PushNotification */,
@@ -118,25 +118,25 @@
 				9C64A0C624CFD236009312AB /* LaunchScreen.storyboard */,
 				9C64A0C924CFD236009312AB /* Info.plist */,
 			);
-			path = "push-notification-ios";
+			path = PushNotification;
 			sourceTree = "<group>";
 		};
-		9C64A0D124CFD236009312AB /* push-notification-iosTests */ = {
+		9C64A0D124CFD236009312AB /* PushNotificationTests */ = {
 			isa = PBXGroup;
 			children = (
 				9C64A0D224CFD236009312AB /* push_notification_iosTests.swift */,
 				9C64A0D424CFD236009312AB /* Info.plist */,
 			);
-			path = "push-notification-iosTests";
+			path = PushNotificationTests;
 			sourceTree = "<group>";
 		};
-		9C64A0DC24CFD236009312AB /* push-notification-iosUITests */ = {
+		9C64A0DC24CFD236009312AB /* PushNotificationUITests */ = {
 			isa = PBXGroup;
 			children = (
 				9C64A0DD24CFD236009312AB /* push_notification_iosUITests.swift */,
 				9C64A0DF24CFD236009312AB /* Info.plist */,
 			);
-			path = "push-notification-iosUITests";
+			path = PushNotificationUITests;
 			sourceTree = "<group>";
 		};
 		9C8CC9E024D0136B00DC3AEC /* PushNotification */ = {
